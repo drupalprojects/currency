@@ -3,6 +3,7 @@ description = Provides currency information and allows users to add custom curre
 core = 7.x
 php = 5.3
 configure = admin/config/regional/currency
+dependencies[] = composer_manager
 dependencies[] = ctools
 dependencies[] = system (>=7.14)
 test_dependencies[] = views
