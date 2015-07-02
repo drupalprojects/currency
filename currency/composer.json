@@ -1,4 +1,10 @@
 {
+  "repositories": [
+    {
+      "type": "vcs",
+      "url":  "https://github.com/v3kwip/currency-lib.git"
+    }
+  ],
   "require" : {
     "bartfeenstra/cldr" : "1.x-dev",
     "bartfeenstra/currency" : "1.x-dev",

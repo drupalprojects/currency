@@ -9,8 +9,6 @@ use BartFeenstra\Currency\AmountInvalidDecimalSeparatorException;
 use BartFeenstra\Currency\AmountNotNumericException;
 use BartFeenstra\Currency\Input;
 
-require_once __DIR__ . '/vendor/autoload.php';
-
 /**
  * The default locale.
  */
